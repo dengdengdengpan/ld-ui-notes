@@ -57,5 +57,7 @@ pnpm install
 pnpm dev
 ```
 
-##### 
+##### 二、GitHub 仓库
+
+将完成初始化的项目更新到 GitHub 远程仓库上。
 
